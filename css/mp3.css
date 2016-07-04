@@ -1,0 +1,45 @@
+html,body{margin:0; padding:0;}
+.container {
+    width: 970px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.group {
+    display: block;
+    clear: both;
+}
+
+.button {
+    /*	padding:3px 3px 10px 3px;
+*/
+    background-color: black;
+    color: #7d3f98;
+    width: 50px;
+    height: 30px;
+    padding: 10px 3px 10px 10px;
+}
+
+.div1 {
+    width: 100%;
+    background-color: black;
+    color: blue;
+    height: 50px;
+}
+
+.txtarea {
+    background-color: white;
+    height: 10px;
+    width: 400px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.jumper-link {
+    margin-left: 20px;
+}
+
+.pull-left {
+    float: left;
+}

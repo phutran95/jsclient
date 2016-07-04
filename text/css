@@ -1,0 +1,33 @@
+CSS:
++)tao 1 container :
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
++)<a> in css
+/* unvisited link */
+a:link {
+    ex(color: red; or background-color: or text-decoration ...)
+
+}
+
+/* visited link */
+a:visited {
+}
+
+/* mouse over link */
+a:hover {
+}
+
+/* selected link */
+a:active {
+}
+
++)
+ Content - The content of the box, where text and images appear
+Padding - Clears an area around the content. The padding is transparent
+Border - A border that goes around the padding and content
+Margin - Clears an area outside the border. The margin is transparent

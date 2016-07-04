@@ -1,0 +1,151 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.div {
+    width: 500px;
+    height: 600px;
+    padding: 80px;
+    color: red;
+    background-color: #d40000;
+}
+
+.div2 {
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.word {
+    font-size: 90px;
+    font-family: Arial;
+    font-style: normal;
+    font-variant: small-caps;
+}
+
+.word2 {
+    font-size: 50px;
+    font-family: Arial;
+    font-variant: small-caps;
+    color: white;
+}
+
+.word2 {
+    font-size: 30px;
+    font-family: Arial;
+    font-variant: small-caps;
+    color: white;
+}
+.wordnew{
+	font-size: 15px;
+	font-family: arial;
+	color: white;
+}
+.wordtest{
+	font-size: 20px;
+	font-family:serif;
+	color: #34bf49;
+	text-align: right;
+	margin-right: 5px;
+}
+.wordminium{
+	font-size: 8px;
+	font-family: Arial;
+	color: white;
+	text-align: right;
+
+}
+.wordnxb{
+    font-size: 8px;
+    font-family: Arial;
+    color: white;
+    font-variant: small-caps;
+}
+.wordupcase{
+    font-variant: small-caps;
+    color:white;
+    text-align: center;
+    font-family:impact;
+
+}
+.wordans{
+    font-size: 11px;
+    text-align: center;
+    color:#fff200;
+    font-family: Arial black;
+    font-variant: small-caps;
+
+}
+.worduse{
+    font-size:20px;
+    font-family: Arial black;
+    color: #ffd900;
+    text-align: center;
+
+}
+.wordinter{
+    text-align: center;
+    font-size: 15px;
+    font-family: century;
+    color: #ff0b00;
+    font-variant: small-caps;
+}
+.title{
+    font-size: 8px;
+    font-family: Constantia;
+    color: white;
+    font-variant: small-caps;
+    text-align:center;
+    margin-top:-20px;
+}
+.divtest1 {
+    background-color: #3be8b0;
+    border-style: solid;
+    width: 150px;
+    height: 250px;
+    padding: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top:15px;
+    margin-bottom:10px;
+    float: left;
+}
+
+.divtest2 {
+   background-color: #ffdd00;
+    color: white;
+    width: 150px;
+    height: 200px;
+    margin-top: -30px;
+    margin-left: 19px;
+    margin-right: 5px;
+
+}
+.divbasic{
+    background-color:#ffdd00;
+    width: 140px;
+    height: 120px;
+    margin-top: -30px;
+    margin-left:10px;
+    margin-right:10px; 
+    text-align: center;
+    font-family:impact;
+}
+.divnew{
+    width:100px;
+    height:40px;
+    background-color:#7ac143;
+    margin-top:-55px;
+    margin-left:30px;
+}
+.withans{
+    background-color:#ffb900;
+    width:150px;
+    height:30px;
+    margin-left:-30px;
+    margin-top:-40px;
+}
